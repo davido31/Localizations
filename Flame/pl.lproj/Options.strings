@@ -11,13 +11,12 @@
 "SEARCH" = "Szukaj";
 "DEFAULT_PAGE_FOOTER" = "Ustaw domyślną stronę, do której otworzy się Cydia.";
 
-"AUTO_REFRESH_HEADER" = "Automatyczne Odświeżanie";
+"REFRESH_HEADER" = "Ustawienia Odświeżania";
+"PULL_TO_REFRESH" = "Pociągnij Aby Odświeżyć";
 "AUTO_REFRESH" = "Wyłącz Automatyczne Odświeżanie";
-"AUTO_REFRESH_FOOTER" = "Powstrzymaj Cydię przed automatycznym odświeżaniem.";
-
 "TIMEOUT" = "Limit Czasu";
 "SECONDS" = "Sekund:";
-"TIMEOUT_FOOTER" = "Wymuś limit czasu, który Cydia poświęci na odświeżenie każdego źródła.";
+"REFRESH_FOOTER" = "Wymuś limit czasu, który Cydia poświęci na odświeżenie każdego źródła.";
 
 "BATCH_ADD" = "Dodawanie Partią";
 "BATCH_ADD_FOOTER" = "Dodaj więcej repozytoriów na raz przez posiadanie ich adresów w schowku.";
@@ -29,6 +28,7 @@
 "NAVBAR_TITLE_COLOR" = "Kolor Tytułu Paska Nawigacji:";
 "TABBAR_COLOR" = "Kolor Karty:";
 "TABBAR_SELECTED_COLOR" = "Kolor Wybranej Karty:";
+"LIGHT_STATUS_BAR" = "Light Status Bar";
 "DARK_KEYBOARD" = "Ciemna Klawiatura";
 "REMOVE_HOMEPAGE_ADS" = "Usuń Reklamy z Karty Cydia";
 

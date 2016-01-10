@@ -11,13 +11,12 @@
 "SEARCH" = "Zoek";
 "DEFAULT_PAGE_FOOTER" = "Kies de pagina waarop Cydia wordt geopend.";
 
-"AUTO_REFRESH_HEADER" = "Automatisch verversen";
+"REFRESH_HEADER" = "Refresh Settings";
+"PULL_TO_REFRESH" = "Pull to Refresh";
 "AUTO_REFRESH" = "Automatisch verversen uitschakelen";
-"AUTO_REFRESH_FOOTER" = "Laat Cydia niet automatisch verversen.";
-
 "TIMEOUT" = "Wachttijd";
 "SECONDS" = "Seconden:";
-"TIMEOUT_FOOTER" = "Laat Cydia maar een bepaald aantal seconden wachten bij het verversen van elke bron.";
+"REFRESH_FOOTER" = "Laat Cydia maar een bepaald aantal seconden wachten bij het verversen van elke bron.";
 
 "BATCH_ADD" = "Meerdere toevoegen";
 "BATCH_ADD_FOOTER" = "Voeg meerdere repositories tegelijk toe door ze op het klembord the hebben.";
@@ -29,6 +28,7 @@
 "NAVBAR_TITLE_COLOR" = "Kleur van de navigatiebalktitel:";
 "TABBAR_COLOR" = "Kleur van de tabbalk:";
 "TABBAR_SELECTED_COLOR" = "Kleur van geselecteerd tabblad:";
+"LIGHT_STATUS_BAR" = "Light Status Bar";
 "DARK_KEYBOARD" = "Donker toetsenbord";
 "REMOVE_HOMEPAGE_ADS" = "Startpaginaadvertenties weghalen";
 
@@ -43,7 +43,7 @@
 "BACKGROUND_COLOR" = "Achtergrondkleur:";
 
 "AUTOFINISH" = "Automatisch voltooien";
-"VIBRATE" = "Trillen"
+"VIBRATE" = "Trillen";
 "AUTOFINISH_FOOTER" = "Respringt, herstart, of gaat automatisch naar Cydia terug na een aantal seconden.";
 
 "SAVE" = "Opslaan";

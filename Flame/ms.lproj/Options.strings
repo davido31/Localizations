@@ -3,16 +3,23 @@
 "APPLY_SETTINGS" = "Ubah Pertukaran";
 "APPLY_FOOTER" = "Kebanyakkan pilihan boleh diubah secara langsung, tapi beberapa pilihan memerlukan Cydia dibuka semula untuk perubahan berlaku.";
 
-"AUTO_REFRESH_HEADER" = "Refresh Sendiri";
-"AUTO_REFRESH" = "Mansuhkan Refresh Sendiri";
-"AUTO_REFRESH_FOOTER" = "Halang Cydia dari refresh dengan sendiri.";
+"DEFAULT_PAGE" = "Default Page";
+"HOME" = "Home";
+"SOURCES" = "Sources";
+"CHANGES" = "Changes";
+"INSTALLED" = "Installed";
+"SEARCH" = "Search";
+"DEFAULT_PAGE_FOOTER" = "Set the default page that Cydia opens to.";
 
+"REFRESH_HEADER" = "Refresh Settings";
+"PULL_TO_REFRESH" = "Pull to Refresh";
+"AUTO_REFRESH" = "Mansuhkan Refresh Sendiri";
 "TIMEOUT" = "Masa tamat";
 "SECONDS" = "Saat:";
-"TIMEOUT_FOOTER" = "Paksa Cydia untuk mengambil masa beberapa saat untuk cuba refresh setiap sumber.";
+"REFRESH_FOOTER" = "Paksa Cydia untuk mengambil masa beberapa saat untuk cuba refresh setiap sumber.";
 
 "BATCH_ADD" = "Tambah Kelompok";
-"BATCH_ADD_FOOTER" = "Tambah beberapa repo dalam masa sekali dengan by having them in your clipboard.";
+"BATCH_ADD_FOOTER" = "Tambah beberapa repo dalam masa sekali dengan apa yang ada didalam clipboard.";
 
 "CUSTOMIZE_UI_HEADER" = "Ubah suai UI";
 "GLOBAL_TINT" = "Semua Tint";
@@ -21,18 +28,19 @@
 "NAVBAR_TITLE_COLOR" = "Warna Tajuk Navbar:";
 "TABBAR_COLOR" = "Warna Bar Tab:";
 "TABBAR_SELECTED_COLOR" = "Warna Bar Tab Terpilih:";
+"LIGHT_STATUS_BAR" = "Light Status Bar";
 "DARK_KEYBOARD" = "Kekunci Gelap";
-"REMOVE_HOMEPAGE_ADS" = "Buang Ad MukaRumah";
+"REMOVE_HOMEPAGE_ADS" = "Buang Iklan MukaRumah";
 
 "SEARCH_TAB_HEADER" = "Tab Carian";
 "CANCEL_BUTTON" = "Butang Batal";
 "SWIPE_TO_DISMISS" = "Sapu untuk Tamat";
-"SEARCH_TAB_FOOTER" = "Sapu bawah untuk sorokkan kekunci.";
+"SEARCH_TAB_FOOTER" = "Sapu bawah untuk sorokkan papan kekunci.";
 
 "INSTALL_SCREEN_HEADER" = "Skrin Pemasangan";
 "REMOVE_BUTTON_BORDER" = "Buang Dinding Butang";
 "BUTTON_BORDER_COLOR" = "Warna Dinding Butang:";
-"BACKGROUND_COLOR" = "Warna Latar:"
+"BACKGROUND_COLOR" = "Warna Latar:";
 
 "AUTOFINISH" = "Habiskan Terus";
 "VIBRATE" = "Bergetar";

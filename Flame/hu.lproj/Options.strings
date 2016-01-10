@@ -1,41 +1,49 @@
-"OPTIONS" = "Be·llÌt·sok";
+Ôªø"OPTIONS" = "Be√°ll√≠t√°sok";
 
-"APPLY_SETTINGS" = "Be·llÌt·sok Alkalmaz·sa";
-"APPLY_FOOTER" = "A legtˆbb be·llÌt·s egybıl ÈrvÈnyes¸l, de nÈh·nyhoz ˙jra kell indÌtani a Cydia-t.";
+"APPLY_SETTINGS" = "Be√°ll√≠t√°sok Alkalmaz√°sa";
+"APPLY_FOOTER" = "A legt√∂bb be√°ll√≠t√°s egyb√µl √©rv√©nyes√ºl, de n√©h√°nyhoz √∫jra kell ind√≠tani a Cydia-t.";
 
-"AUTO_REFRESH_HEADER" = "Automatikus frissÌtÈs";
-"AUTO_REFRESH" = "Automatikus FrissÌtÈs Kikapcsol·s";
-"AUTO_REFRESH_FOOTER" = "Automatikus FrissÌtÈs tilt·sa a Cydia-ban.";
+"DEFAULT_PAGE" = "Alap√©rtelmezett oldal";
+"HOME" = "Kezd√µlap";
+"SOURCES" = "Forr√°sok";
+"CHANGES" = "V√°ltoz√°sok";
+"INSTALLED" = "Telep√≠tett";
+"SEARCH" = "Keres√©s";
+"DEFAULT_PAGE_FOOTER" = "√Åll√≠tsd be azt az oldalt, amellyel induljon a Cydia.";
 
-"TIMEOUT" = "FrissÌtÈsi idı";
-"SECONDS" = "M·sodperc:";
-"TIMEOUT_FOOTER" = "A Cydia kÈnyszerÌtÈse arra, hogy csak a megadott idı alatt prÛb·lja frissÌteni a forr·sokat.";
+"REFRESH_HEADER" = "Friss√≠t√©si be√°ll√≠t√°sok";
+"PULL_TO_REFRESH" = "Friss√≠t√©s leh√∫z√°ssal";
+"AUTO_REFRESH" = "Automatikus Friss√≠t√©s Kikapcsol√°s";
+"TIMEOUT" = "Friss√≠t√©si id√µ";
+"SECONDS" = "M√°sodperc:";
+"REFRESH_FOOTER" = "A Cydia k√©nyszer√≠t√©se arra, hogy csak a megadott id√µ alatt pr√≥b√°lja friss√≠teni a forr√°sokat.";
 
-"BATCH_ADD" = "Tˆbbszˆrˆs hozz·ad·s";
-"BATCH_ADD_FOOTER" = "Tˆbb repo hozz·ad·sa egyszerre a v·gÛlaprÛl.";
+"BATCH_ADD" = "T√∂bbsz√∂r√∂s hozz√°ad√°s";
+"BATCH_ADD_FOOTER" = "T√∂bb repo hozz√°ad√°sa egyszerre a v√°g√≥lapr√≥l.";
 
-"CUSTOMIZE_UI_HEADER" = "Fel¸let Testreszab·s";
-"GLOBAL_TINT" = "¡ltal·nos ·rnyalat";
-"GLOBAL_TINT_COLOR" = "¡ltal·nos ·rnyalat szÌne:";
-"NAVBAR_COLOR" = "Fel¸let szÌne:";
-"NAVBAR_TITLE_COLOR" = "Fel¸leti cÌm szÌne:";
-"TABBAR_COLOR" = "F¸lek S·vj·nak szÌne:";
-"TABBAR_SELECTED_COLOR" = "F¸lek S·vj·nak kiv·lasztott szÌne:";
-"DARK_KEYBOARD" = "SˆtÈt billenty˚zet";
-"REMOVE_HOMEPAGE_ADS" = "Kezdılapi hirdetÈsek elt·volÌt·sa";
+"CUSTOMIZE_UI_HEADER" = "Fel√ºlet Testreszab√°s";
+"GLOBAL_TINT" = "√Åltal√°nos √°rnyalat";
+"GLOBAL_TINT_COLOR" = "√Åltal√°nos √°rnyalat sz√≠ne:";
+"NAVBAR_COLOR" = "Fel√ºlet sz√≠ne:";
+"NAVBAR_TITLE_COLOR" = "Fel√ºleti c√≠m sz√≠ne:";
+"TABBAR_COLOR" = "F√ºlek S√°vj√°nak sz√≠ne:";
+"TABBAR_SELECTED_COLOR" = "F√ºlek S√°vj√°nak kiv√°lasztott sz√≠ne:";
+"LIGHT_STATUS_BAR" = "Vil√°gos √°llapotsor";
+"DARK_KEYBOARD" = "S√∂t√©t billenty√ªzet";
+"REMOVE_HOMEPAGE_ADS" = "Kezd√µlapi hirdet√©sek elt√°vol√≠t√°sa";
 
-"SEARCH_TAB_HEADER" = "KeresÈs f¸l";
-"CANCEL_BUTTON" = "MÈgse gomb";
-"SWIPE_TO_DISMISS" = "ElvetÈs cs˙sztat·ssal";
-"SEARCH_TAB_FOOTER" = "Cs˙sztass lefelÈ, hogy elt˚njˆn a billenty˚zet.";
+"SEARCH_TAB_HEADER" = "Keres√©s f√ºl";
+"CANCEL_BUTTON" = "M√©gse gomb";
+"SWIPE_TO_DISMISS" = "Elvet√©s cs√∫sztat√°ssal";
+"SEARCH_TAB_FOOTER" = "Cs√∫sztass lefel√©, hogy elt√ªnj√∂n a billenty√ªzet.";
 
-"INSTALL_SCREEN_HEADER" = "TelepÌtÈsi kÈpernyı";
-"REMOVE_BUTTON_BORDER" = "Gomb keret elt˚ntetÈs";
-"BUTTON_BORDER_COLOR" = "Gomb keret szÌne:";
-"BACKGROUND_COLOR" = "H·ttÈr szÌne:";
+"INSTALL_SCREEN_HEADER" = "Telep√≠t√©si k√©perny√µ";
+"REMOVE_BUTTON_BORDER" = "Gomb keret elt√ªntet√©s";
+"BUTTON_BORDER_COLOR" = "Gomb keret sz√≠ne:";
+"BACKGROUND_COLOR" = "H√°tt√©r sz√≠ne:";
 
-"AUTOFINISH" = "Automatikus BefejezÈs";
-"VIBRATE" = "Vibr·l·s";
-"AUTOFINISH_FOOTER" = "Automatikusan respringel, ˙jraindul, vagy visszatÈr a Cydia-ba a megadott idı ut·n.";
+"AUTOFINISH" = "Automatikus Befejez√©s";
+"VIBRATE" = "Vibr√°l√°s";
+"AUTOFINISH_FOOTER" = "Automatikusan respringel, √∫jraindul, vagy visszat√©r a Cydia-ba a megadott id√µ ut√°n.";
 
-"SAVE" = "MentÈs";
+"SAVE" = "Ment√©s";

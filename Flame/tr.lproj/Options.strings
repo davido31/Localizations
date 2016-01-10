@@ -11,13 +11,12 @@
 "SEARCH" = "Arama";
 "DEFAULT_PAGE_FOOTER" = "Cydia'nın açıldığı ana sayfa.";
 
-"AUTO_REFRESH_HEADER" = "Otomatik Yükleme";
+"REFRESH_HEADER" = "Refresh Settings";
+"PULL_TO_REFRESH" = "Pull to Refresh";
 "AUTO_REFRESH" = "Otomatik Yükleme Kapat";
-"AUTO_REFRESH_FOOTER" = "Cydia'nın kendini yenilemesini durdurma.";
-
 "TIMEOUT" = "Zaman Aşımı";
 "SECONDS" = "Saniye:";
-"TIMEOUT_FOOTER" = "Her kaynağın yenilenme suresini azalatmaya zorlar.";
+"REFRESH_FOOTER" = "Her kaynağın yenilenme suresini azalatmaya zorlar.";
 
 "BATCH_ADD" = "Toplu Ekleme";
 "BATCH_ADD_FOOTER" = "Birden fazla kopyalanmış kaynakların hepsini aynı anda ekler.";
@@ -26,9 +25,10 @@
 "GLOBAL_TINT" = "Tüm Renkler";
 "GLOBAL_TINT_COLOR" = "Tüm Renklerin Rengi:";
 "NAVBAR_COLOR" = "Navbar Rengi:";
-"NAVBAR_TITLE_COLOR" = "Navbar Başlık Rengi:"
+"NAVBAR_TITLE_COLOR" = "Navbar Başlık Rengi:";
 "TABBAR_COLOR" = "Tab Bar Rengi:";
 "TABBAR_SELECTED_COLOR" = "Tab Bar Seçilen Rengi:";
+"LIGHT_STATUS_BAR" = "Light Status Bar";
 "DARK_KEYBOARD" = "Siyah Klavye";
 "REMOVE_HOMEPAGE_ADS" = "Reklam Engelleme";
 
