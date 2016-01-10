@@ -11,9 +11,9 @@
 "SEARCH" = "Suche";
 "DEFAULT_PAGE_FOOTER" = "Legt den Standard-Tab fest, der beim Start von Cydia als erstes angezeigt werden soll.";
 
-"REFRESH_HEADER" = "Refresh Settings";
-"PULL_TO_REFRESH" = "Pull to Refresh";
-"AUTO_REFRESH" = "'Auto-Refresh' deaktivieren";
+"REFRESH_HEADER" = "Aktualisierungs-Einstellungen";
+"PULL_TO_REFRESH" = "Ziehen zum Aktualisieren";
+"AUTO_REFRESH" = "Auto-Aktualisierung deaktivieren";
 "TIMEOUT" = "Timeout";
 "SECONDS" = "Sekunden:";
 "REFRESH_FOOTER" = "Gibt die Dauer in Sekunden an, während der Cydia versucht, eine Quelle zu aktualisieren.";
@@ -28,13 +28,13 @@
 "NAVBAR_TITLE_COLOR" = "Navbar-Titel-Farbe:";
 "TABBAR_COLOR" = "Tab Bar-Farbe:";
 "TABBAR_SELECTED_COLOR" = "Tab Bar-Auswahl-Farbe:";
-"LIGHT_STATUS_BAR" = "Light Status Bar";
+"LIGHT_STATUS_BAR" = "Helle Statusleiste";
 "DARK_KEYBOARD" = "Dunkle Tastatur";
 "REMOVE_HOMEPAGE_ADS" = "Werbung entfernen";
 
 "SEARCH_TAB_HEADER" = "Suche-Tab";
 "CANCEL_BUTTON" = "Abbrechen-Button";
-"SWIPE_TO_DISMISS" = "'Swipe to Dismiss'";
+"SWIPE_TO_DISMISS" = "Wischen zum Ausblenden";
 "SEARCH_TAB_FOOTER" = "Erlaubt das Ausblenden der Tastatur bei einem Wischen nach unten.";
 
 "INSTALL_SCREEN_HEADER" = "Installationsbildschirm";
