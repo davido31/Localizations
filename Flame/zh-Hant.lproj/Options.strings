@@ -11,8 +11,8 @@
 "SEARCH" = "搜尋";
 "DEFAULT_PAGE_FOOTER" = "選擇開啟 Cydia 時的預設頁面。";
 
-"REFRESH_HEADER" = "Refresh Settings";
-"PULL_TO_REFRESH" = "Pull to Refresh";
+"REFRESH_HEADER" = "更新設定";
+"PULL_TO_REFRESH" = "下拉更新";
 "AUTO_REFRESH" = "關閉自動重新整理";
 "TIMEOUT" = "逾時設定";
 "SECONDS" = "秒：";
@@ -28,7 +28,7 @@
 "NAVBAR_TITLE_COLOR" = "導航欄標題顏色：";
 "TABBAR_COLOR" = "標籤欄顏色：";
 "TABBAR_SELECTED_COLOR" = "標籤欄已選擇顏色：";
-"LIGHT_STATUS_BAR" = "Light Status Bar";
+"LIGHT_STATUS_BAR" = "淺色狀態列";
 "DARK_KEYBOARD" = "深色鍵盤";
 "REMOVE_HOMEPAGE_ADS" = "移除主頁廣告";
 
