@@ -15,17 +15,18 @@ Thank you very much!
 
 **Completed**
 
+* de - /u/\_pixxaddict\_
 * hu - /u/benciikee
 * fi - /u/Shiningtoaster
 * pl - lyratriescoding
 * zh-Hans - /u/darkj2k
 * zh-HK - /u/darkj2k & /u/DurianNinja
+* zh-Hant - /u/darkj2k & /u/DurianNinja
 
 **Incomplete**
 
 * ar - Abo-bs
 * ca - /u/Q-Quan
-* de - /u/\_pixxaddict\_
 * es - /u/Q-Quan
 * fr - /u/-MTAC-
 * he - /u/Aransh
@@ -36,4 +37,3 @@ Thank you very much!
 * nl - /u/Q-Quan
 * ru - 25element
 * tr - /u/omerwwazap
-* zh-Hant - /u/darkj2k & /u/DurianNinja
