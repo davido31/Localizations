@@ -15,25 +15,27 @@ Thank you very much!
 
 **Completed**
 
-* de - /u/\_pixxaddict\_
-* hu - /u/benciikee
-* fi - /u/Shiningtoaster
-* pl - lyratriescoding
-* zh-Hans - /u/darkj2k
-* zh-HK - /u/darkj2k & /u/DurianNinja
-* zh-Hant - /u/darkj2k & /u/DurianNinja
+* None
+
 
 **Incomplete**
 
 * ar - Abo-bs
 * ca - /u/Q-Quan
+* de - /u/\_pixxaddict\_
 * es - /u/Q-Quan
+* fi - /u/Shiningtoaster
 * fr - /u/-MTAC-
 * he - /u/Aransh
+* hu - /u/benciikee
 * id - /u/kpratama24
 * it - andreags4
 * ms - /u/redzrex
 * nb - kissorjeyabalan
 * nl - /u/Q-Quan
+* pl - lyratriescoding
 * ru - 25element
 * tr - /u/omerwwazap
+* zh-Hans - /u/darkj2k
+* zh-HK - /u/darkj2k & /u/DurianNinja
+* zh-Hant - /u/darkj2k & /u/DurianNinja

@@ -21,6 +21,9 @@
 "BATCH_ADD" = "Batch Add";
 "BATCH_ADD_FOOTER" = "Legg til flere repo samtidig ved å ha dem i utklippstavlen din.";
 
+"EXPORT" = "Export";
+"EXPORT_FOOTER" = "Adds ability to export a list of installed tweaks and sources from the Installed tab.";
+
 "CUSTOMIZE_UI_HEADER" = "Tilpass UI";
 "GLOBAL_TINT" = "Global Fargenyanse";
 "GLOBAL_TINT_COLOR" = "Global Fargenyanse:";

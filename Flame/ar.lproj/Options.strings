@@ -21,6 +21,9 @@
 "BATCH_ADD" = "اضافة دفعة";
 "BATCH_ADD_FOOTER" = "اضافة اكثر من سورس في وقت واحد بالسيديا بوجودهم في الحافظة او يعني الي تكون مسوي لهم نسخ";
 
+"EXPORT" = "Export";
+"EXPORT_FOOTER" = "Adds ability to export a list of installed tweaks and sources from the Installed tab.";
+
 "CUSTOMIZE_UI_HEADER" = "تخصيص واجهة السيديا";
 "GLOBAL_TINT" = "لون خفيف عام";
 "GLOBAL_TINT_COLOR" = "اللون الخفيف العام:";
