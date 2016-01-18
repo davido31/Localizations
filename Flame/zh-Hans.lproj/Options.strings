@@ -21,6 +21,9 @@
 "BATCH_ADD" = "批次添加来源";
 "BATCH_ADD_FOOTER" = "一次添加多个在剪贴簿的软件源。";
 
+"EXPORT" = "Export";
+"EXPORT_FOOTER" = "Adds ability to export a list of installed tweaks and sources from the Installed tab.";
+
 "CUSTOMIZE_UI_HEADER" = "介面设置";
 "GLOBAL_TINT" = "整体着色";
 "GLOBAL_TINT_COLOR" = "整体着色颜色：";

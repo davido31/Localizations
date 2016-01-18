@@ -21,6 +21,9 @@
 "BATCH_ADD" = "Dodawanie Partią";
 "BATCH_ADD_FOOTER" = "Dodaj więcej repozytoriów na raz przez posiadanie ich adresów w schowku.";
 
+"EXPORT" = "Export";
+"EXPORT_FOOTER" = "Adds ability to export a list of installed tweaks and sources from the Installed tab.";
+
 "CUSTOMIZE_UI_HEADER" = "Dostosuj Interfejs";
 "GLOBAL_TINT" = "Odcień Programu";
 "GLOBAL_TINT_COLOR" = "Kolor Odcienia Programu:";

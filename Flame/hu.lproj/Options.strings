@@ -21,6 +21,9 @@
 "BATCH_ADD" = "Többszörös hozzáadás";
 "BATCH_ADD_FOOTER" = "Több repo hozzáadása egyszerre a vágólapról.";
 
+"EXPORT" = "Export";
+"EXPORT_FOOTER" = "Adds ability to export a list of installed tweaks and sources from the Installed tab.";
+
 "CUSTOMIZE_UI_HEADER" = "Felület Testreszabás";
 "GLOBAL_TINT" = "Általános árnyalat";
 "GLOBAL_TINT_COLOR" = "Általános árnyalat színe:";

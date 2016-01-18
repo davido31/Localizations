@@ -11,8 +11,8 @@
 "SEARCH" = "搜尋";
 "DEFAULT_PAGE_FOOTER" = "選擇開啟 Cydia 時的預設頁面。";
 
-"REFRESH_HEADER" = "Refresh Settings";
-"PULL_TO_REFRESH" = "Pull to Refresh";
+"REFRESH_HEADER" = "更新設定";
+"PULL_TO_REFRESH" = "下拉更新";
 "AUTO_REFRESH" = "關閉自動重新整理";
 "TIMEOUT" = "逾時設定";
 "SECONDS" = "秒：";
@@ -21,6 +21,9 @@
 "BATCH_ADD" = "批次新增來源";
 "BATCH_ADD_FOOTER" = "一次新增多個在剪貼簿的來源。";
 
+"EXPORT" = "Export";
+"EXPORT_FOOTER" = "Adds ability to export a list of installed tweaks and sources from the Installed tab.";
+
 "CUSTOMIZE_UI_HEADER" = "介面設定";
 "GLOBAL_TINT" = "整體渲染";
 "GLOBAL_TINT_COLOR" = "整體渲染顏色：";
@@ -28,7 +31,7 @@
 "NAVBAR_TITLE_COLOR" = "導航欄標題顏色：";
 "TABBAR_COLOR" = "標籤欄顏色：";
 "TABBAR_SELECTED_COLOR" = "標籤欄已選擇顏色：";
-"LIGHT_STATUS_BAR" = "Light Status Bar";
+"LIGHT_STATUS_BAR" = "淺色狀態列";
 "DARK_KEYBOARD" = "深色鍵盤";
 "REMOVE_HOMEPAGE_ADS" = "移除主頁廣告";
 
