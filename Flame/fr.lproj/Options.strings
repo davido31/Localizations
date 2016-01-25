@@ -44,6 +44,6 @@
 
 "AUTOFINISH" = "Finir automatiquement";
 "VIBRATE" = "Vibrer";
-"AUTOFINISH_FOOTER" = "Resprings automatiquement, redémarre, ou retourne à Cydia.";
+"AUTOFINISH_FOOTER" = "Resprings, reboot ou retourner à Cydia automatiquement à la fin du processus; délai réglable en seconde.";
 
 "SAVE" = "Sauver";
