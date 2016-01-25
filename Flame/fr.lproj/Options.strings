@@ -13,7 +13,7 @@
 
 "REFRESH_HEADER" = "Parametres d'actualisation";
 "PULL_TO_REFRESH" = "Glisser pour rafraichir";
-"AUTO_REFRESH" = "Actualisation automatique désactiver";
+"AUTO_REFRESH" = "Désactiver le rafraichissement auto";
 "TIMEOUT" = "Temps libre";
 "SECONDS" = "Secondes:";
 "REFRESH_FOOTER" = "Force Cydia a respecter un temps de rafraichissement de chaque source défini en seconde.";
@@ -24,7 +24,7 @@
 "EXPORT" = "Exportation";
 "EXPORT_FOOTER" = "Ajoute la possibilité d'éxporter la liste des tweaks et sources installé (mail).";
 
-"CUSTOMIZE_UI_HEADER" = "Personnaliser UI";
+"CUSTOMIZE_UI_HEADER" = "Personnalisation de l'UI";
 "GLOBAL_TINT" = "Teinte Universelle";
 "GLOBAL_TINT_COLOR" = "Couleur de teinte:";
 "NAVBAR_COLOR" = "Couleur Navbar:";
@@ -47,6 +47,6 @@
 
 "AUTOFINISH" = "Action automatique à la fin";
 "VIBRATE" = "Vibrer";
-"AUTOFINISH_FOOTER" = "Permet de relancer le Springboard, le redémarrage ou le retour à Cydia automatique, réglable en seconde.";
+"AUTOFINISH_FOOTER" = "Resprings, reboot ou retourner à Cydia automatiquement à la fin du processus; délai réglable en seconde.";
 
 "SAVE" = "Sauver";
