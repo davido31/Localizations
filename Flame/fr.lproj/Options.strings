@@ -13,7 +13,7 @@
 
 "REFRESH_HEADER" = "Refresh Settings";
 "PULL_TO_REFRESH" = "Pull to Refresh";
-"AUTO_REFRESH" = "Actualisation automatique désactiver";
+"AUTO_REFRESH" = "Désactiver le rafraichissement auto";
 "TIMEOUT" = "Temps libre";
 "SECONDS" = "Secondes:";
 "REFRESH_FOOTER" = "Cydia forcer à prendre un certain nombre de secondes pour actualiser.";
