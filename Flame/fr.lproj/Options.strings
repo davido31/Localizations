@@ -1,52 +1,52 @@
-"OPTIONS" = "Les Choix";
+"OPTIONS" = "Options";
 
 "APPLY_SETTINGS" = "Appliquer";
-"APPLY_FOOTER" = "Beaucoup d'options sont immédiats, sinon recommencer Cydia";
+"APPLY_FOOTER" = "Certaines options nécessites de relancer Cydia pour être prises en compte";
 
 "DEFAULT_PAGE" = "Page par défaut";
 "HOME" = "Accueil";
 "SOURCES" = "Les Sources";
-"CHANGES" = "Changements";
+"CHANGES" = "Nouveautés";
 "INSTALLED" = "Installé";
 "SEARCH" = "Recherche";
-"DEFAULT_PAGE_FOOTER" = "Définissez la page qui ouvre la première.";
+"DEFAULT_PAGE_FOOTER" = "Choisir la page d'ouverture de Cydia par defaut.";
 
-"REFRESH_HEADER" = "Refresh Settings";
-"PULL_TO_REFRESH" = "Pull to Refresh";
+"REFRESH_HEADER" = "Parametres d'actualisation";
+"PULL_TO_REFRESH" = "Glisser pour rafraichir";
 "AUTO_REFRESH" = "Actualisation automatique désactiver";
 "TIMEOUT" = "Temps libre";
 "SECONDS" = "Secondes:";
-"REFRESH_FOOTER" = "Cydia forcer à prendre un certain nombre de secondes pour actualiser.";
+"REFRESH_FOOTER" = "Force Cydia a respecter un temps de rafraichissement de chaque source défini en seconde.";
 
 "BATCH_ADD" = "Ajouter par lot";
-"BATCH_ADD_FOOTER" = "Ajouter plusieurs repos à la fois.";
+"BATCH_ADD_FOOTER" = "Ajouter plusieurs sources contenu dans le press-papiers.";
 
-"EXPORT" = "Export";
-"EXPORT_FOOTER" = "Adds ability to export a list of installed tweaks and sources from the Installed tab.";
+"EXPORT" = "Exportation";
+"EXPORT_FOOTER" = "Ajoute la possibilité d'éxporter la liste des tweaks et sources installé (mail).";
 
 "CUSTOMIZE_UI_HEADER" = "Personnaliser UI";
 "GLOBAL_TINT" = "Teinte Universelle";
 "GLOBAL_TINT_COLOR" = "Couleur de teinte:";
-"NAVBAR_COLOR" = "Couler de Navbar:";
-"NAVBAR_TITLE_COLOR" = "Couler du titre de la navbar:";
-"TABBAR_COLOR" = "Couler du barre d'onglets:";
+"NAVBAR_COLOR" = "Couleur Navbar:";
+"NAVBAR_TITLE_COLOR" = "Couleur du titre de la Navbar:";
+"TABBAR_COLOR" = "Couleur barre d'onglets:";
 "TABBAR_SELECTED_COLOR" = "La couleur de l'onglet choisi:";
 "LIGHT_STATUS_BAR" = "Barre d'état douce";
 "DARK_KEYBOARD" = "Clavier noir";
 "REMOVE_HOMEPAGE_ADS" = "Pas de pubs";
 
-"SEARCH_TAB_HEADER" = "Onglet de recherche";
-"CANCEL_BUTTON" = "Bouton d'annulation";
-"SWIPE_TO_DISMISS" = "Glisser de rejeter";
+"SEARCH_TAB_HEADER" = "Onglet recherche";
+"CANCEL_BUTTON" = "Ajout bouton d'annulation";
+"SWIPE_TO_DISMISS" = "Glisser pour terminer";
 "SEARCH_TAB_FOOTER" = "Glisser pour masquer le clavier.";
 
 "INSTALL_SCREEN_HEADER" = "Écran d'installation";
-"REMOVE_BUTTON_BORDER" = "Supprimer bouton frontière";
-"BUTTON_BORDER_COLOR" = "Couleur de la frontière du bouton:";
+"REMOVE_BUTTON_BORDER" = "Supprimer le bouton de fin d'installation";
+"BUTTON_BORDER_COLOR" = "Couleur bords du bouton:";
 "BACKGROUND_COLOR" = "Couleur de fond:";
 
-"AUTOFINISH" = "Finir automatiquement";
+"AUTOFINISH" = "Action automatique à la fin";
 "VIBRATE" = "Vibrer";
-"AUTOFINISH_FOOTER" = "Resprings automatiquement, redémarre, ou retourne à Cydia.";
+"AUTOFINISH_FOOTER" = "Permet de relancer le Springboard, le redémarrage ou le retour à Cydia automatique, réglable en seconde.";
 
 "SAVE" = "Sauver";
